@@ -10,5 +10,9 @@ window.RULES_DIRECT = {
     "/ryy": {
         "url": "https://www.rainyun.com/ssl_",
         "expired_at": ""
+    },
+    "/cpap": {
+        "url": "https://github.com/Ve-ria/CLIProxyAPIPlus",
+        "expired_at": ""
     }
 };
